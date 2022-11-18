@@ -2,6 +2,6 @@ package pkg1
 
 import "fmt"
 
-func hello() {
+func Hello() {
     fmt.Println("hello from pkg1")
 }
